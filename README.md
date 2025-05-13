@@ -1,1 +1,2 @@
 # DA-Mod2-WK5-API-S
+# Using an API to make a call to return data. For DA-Assignment on API's. Did a call for a single return and one for a multiple return. Used https://kanye.rest/ as the API source and pulled random Kanye West quotes.
